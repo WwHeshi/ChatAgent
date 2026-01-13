@@ -154,11 +154,9 @@ AgentChat 是一个现代化的智能对话系统，基于大语言模型构建�
 - **样式**: SCSS
 - **Markdown**: md-editor-v3
 
-### 开发工具
-- **包管理**: Poetry (后端), npm (前端)
-- **代码格式**: Black, Prettier
-- **类型检查**: mypy, TypeScript
+### 其他
 - **容器化**: Docker, Docker Compose
+- **反向代理**: Nginx
 
 ---
 
@@ -166,7 +164,7 @@ AgentChat 是一个现代化的智能对话系统，基于大语言模型构建�
 
 ## 🚀 快速开始
 
-> 🎯 **三种部署方式任你选择** - Docker一键部署 | 本地开发 | 生产环境
+
 
 <div align="center">
 
@@ -187,7 +185,6 @@ AgentChat 是一个现代化的智能对话系统，基于大语言模型构建�
 
 #### 🔥 **超简单三步部署**
 
-<div align="center">
 
 ```bash
 # 1️⃣ 克隆项目
@@ -203,11 +200,9 @@ cd docker
 docker-compose up --build -d
 ```
 
-</div>
 
 #### ✅ **验证部署**
 
-<div align="center">
 
 ```bash
 # 查看服务状态
@@ -216,7 +211,6 @@ docker-compose ps
 # 查看日志
 docker-compose logs -f app
 ```
-</div>
 
 
 
@@ -279,10 +273,6 @@ npm run dev
 </div>
 
 
-
-
-## 📄 **许可证**
-
 <div align="center">
 
 本项目采用 **[MIT License](LICENSE)** 开源许可证
@@ -296,8 +286,6 @@ npm run dev
 <div align="center">
 
 ## 🌟 **感谢支持 AgentChat！**
-
-### 如果这个项目对你有帮助，请给我们一个 ⭐️
 
 *让更多的人发现这个项目，一起构建AI的未来！*
 
