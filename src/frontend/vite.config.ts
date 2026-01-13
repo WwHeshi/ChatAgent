@@ -13,7 +13,7 @@ export default defineConfig({
       // 设置反向代理，跨域
       proxy: {
         '/api': {
-          target: 'http://localhost:7860/',
+          target: process.env.VITE_API_BASE_URL || 'http://backend:7860/',
           changeOrigin: true,
       }
     },
