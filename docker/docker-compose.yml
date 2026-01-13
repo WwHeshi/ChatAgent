@@ -1,4 +1,4 @@
-
+# 开发环境
 # 🌐 网络配置
 networks:
   agentchat-network:
@@ -74,7 +74,7 @@ services:
       LOG_LEVEL: info
       
       # 🔐 安全配置
-      JWT_SECRET_KEY: your-super-secret-jwt-key-change-in-production
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY}
       
       # 🤖 AI模型配置（请在.env文件中设置）
       OPENAI_API_KEY: ${OPENAI_API_KEY:-}

@@ -35,5 +35,5 @@ ENV PYTHONUNBUFFERED=1
 # 🚀 暴露端口
 EXPOSE 7860
 
-# 🏃‍♂️ 启动后端服务
+# 🏃‍♂️ 启动后端服务，开发环境
 CMD ["uvicorn", "agentchat.main:app", "--host", "0.0.0.0", "--port", "7860", "--reload"]
