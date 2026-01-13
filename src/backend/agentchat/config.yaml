@@ -22,6 +22,9 @@ multi_models:
     api_key: "sk-6d47d94f4c734357******"
     base_url: "https://api.deepseek.com/v1"
     model_name: "deepseek-chat"
+    # api_key: "ms-d3f3abee-eb77-4f8e-b674-d8dd265ef2c9"
+    # base_url: "https://api-inference.modelscope.cn/v1"
+    # model_name: "Qwen/Qwen3-32B"
   # 工具调用/Function Call 模型配置
   tool_call_model:
     api_key: "sk-fc40dd0604f04142a******"
