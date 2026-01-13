@@ -1,0 +1,15 @@
+__pycache__/
+
+.idea/
+
+.vscode/
+
+chat.html
+
+.env
+
+chroma_db/
+memory_db/
+vector_db/
+
+node_modules/
