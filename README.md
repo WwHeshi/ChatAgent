@@ -33,13 +33,13 @@ AgentChat 是一个现代化的智能对话系统，基于大语言模型构建�
 
 <div align="center">
 
-### 🖥️新增工作区
-*新增工作区，工作区和应用中心可随意切换*
+### 🖥️工作区
+*工作区和应用中心可随意切换*
 <img width="800" height="450" alt="c453afd6-84ed-4bb7-b268-407fb531a1c9" src="https://github.com/user-attachments/assets/766c7628-2256-4c8b-a838-c400eaa78d6b" />
 
 
-### ✨灵寻任务规划
-*实时的任务流程图，更加直观的感受*
+### ✨任务规划
+*实时的任务流程图*
 <img width="800" height="450" alt="cc59faad-4112-48cd-b9b1-6f89d3cbdb39" src="https://github.com/user-attachments/assets/53f7fe9f-d70d-4cc2-bf7e-b47a712a6d7a" />
 
 ### 📊数据看板
@@ -118,7 +118,7 @@ AgentChat 是一个现代化的智能对话系统，基于大语言模型构建�
 <img width="800" height="450" alt="文档解析" src="https://github.com/user-attachments/assets/0d030916-b6e2-482c-b828-b760fc574cae" />
 
 ### 🛠️ 工具管理中心
-*丰富的内置工具集，持续扩展中*
+*丰富的内置工具集*
 
 <img width="800" height="450" alt="工具管理" src="https://github.com/user-attachments/assets/70fe68ce-56e0-44be-b78a-817ed32d4708" />
 
@@ -187,6 +187,8 @@ AgentChat 是一个现代化的智能对话系统，基于大语言模型构建�
 
 #### 🔥 **超简单三步部署**
 
+<div align="center">
+
 ```bash
 # 1️⃣ 克隆项目
 git clone https://github.com/Shy2593666979/AgentChat.git
@@ -201,7 +203,12 @@ cd docker
 docker-compose up --build -d
 ```
 
+</div>
+
 #### ✅ **验证部署**
+
+<div align="center">
+
 ```bash
 # 查看服务状态
 docker-compose ps
@@ -209,7 +216,7 @@ docker-compose ps
 # 查看日志
 docker-compose logs -f app
 ```
-
+</div>
 
 
 
