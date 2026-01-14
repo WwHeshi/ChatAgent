@@ -93,14 +93,12 @@ AgentChat 是一个现代化的智能对话系统，基于大语言模型构建�
 
 <div align="center">
 
-<div align="center">
 
 ### 🔁智能体工具多轮调用
 
 平台中智能体支持工具多轮调用
 <img width="800" height="450" alt="dc426a1b220af20a06b068a4ffc2bb10" src="https://github.com/user-attachments/assets/029c70ce-e5fa-4f2c-926a-a5dfd719e237" />
 
-<div align="center">
 
 ### 🔌 MCP服务器集成
 *支持Model Context Protocol，可上传自定义MCP服务*
@@ -132,6 +130,8 @@ AgentChat 是一个现代化的智能对话系统，基于大语言模型构建�
 
 ---
 
+<div align="center">
+
 ## 🛠 技术栈
 
 ### 后端技术
@@ -158,13 +158,15 @@ AgentChat 是一个现代化的智能对话系统，基于大语言模型构建�
 - **容器化**: Docker, Docker Compose
 - **反向代理**: Nginx
 
+
+
 ---
 
 
 
 ## 🚀 快速开始
 
-
+</div>
 
 <div align="center">
 
@@ -178,13 +180,14 @@ AgentChat 是一个现代化的智能对话系统，基于大语言模型构建�
 | **Redis** | 7.0+ | 缓存和会话存储 |
 | **Docker** | 20.10+ | 容器化部署（推荐） |
 
-</div>
+
 
 ### 🎉 **方式一：Docker一键部署（推荐）**
 
 
 #### 🔥 **超简单三步部署**
 
+</div>
 
 ```bash
 # 1️⃣ 克隆项目
@@ -200,9 +203,11 @@ cd docker
 docker-compose up --build -d
 ```
 
+<div align="center">
 
 #### ✅ **验证部署**
 
+</div>
 
 ```bash
 # 查看服务状态
@@ -212,13 +217,15 @@ docker-compose ps
 docker-compose logs -f app
 ```
 
-
+<div align="center">
 
 
 ### 🛠️ **方式二：本地开发环境**
 
 
 #### 🔧 **后端环境搭建**
+
+</div>
 
 ```bash
 # 1️⃣ 克隆项目
@@ -228,13 +235,15 @@ cd AgentChat
 # 使用pip安装依赖
 pip install -r requirements.txt
 ```
-
+<div align="center">
 
 #### ⚙️ **配置文件设置**
 
 创建并编辑配置文件 `src/backend/agentchat/config.yaml`:
 
 #### 🚀 **启动服务**
+
+</div>
 
 ```bash
 # 后端服务
