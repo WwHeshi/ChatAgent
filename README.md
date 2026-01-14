@@ -256,6 +256,8 @@ npm install
 npm run dev
 ```
 
+<div align="center">
+
 #### 🌐 **访问地址**
 
 | 🎯 **服务** | 🔗 **地址** | 📝 **说明** |
@@ -264,7 +266,7 @@ npm run dev
 | **后端API** | [localhost:7860](http://localhost:7860) | API服务 |
 | **API文档** | [localhost:7860/docs](http://localhost:7860/docs) | Swagger文档 |
 
-
+</div>
 
 
 
