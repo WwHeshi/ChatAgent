@@ -33,63 +33,11 @@ AgentChat 是一个现代化的智能对话系统，基于大语言模型构建�
 
 <div align="center">
 
-### 🖥️工作区
-*工作区和应用中心可随意切换*
-<img width="800" height="450" alt="c453afd6-84ed-4bb7-b268-407fb531a1c9" src="https://github.com/user-attachments/assets/766c7628-2256-4c8b-a838-c400eaa78d6b" />
-
-
 ### ✨任务规划
 *实时的任务流程图*
 <img width="800" height="450" alt="cc59faad-4112-48cd-b9b1-6f89d3cbdb39" src="https://github.com/user-attachments/assets/53f7fe9f-d70d-4cc2-bf7e-b47a712a6d7a" />
 
-### 📊数据看板
-*能够根据Agent、模型、时间范围进行筛选调用次数和Token使用量* 
-<img width="800" height="450" alt="5e90c531-0a10-4457-962d-984b0568f25d" src="https://github.com/user-attachments/assets/2811a276-a2e3-4b10-8764-605bcbc80254" />
-
-
-### 🏠 智言平台首页
-*简洁现代的主界面，提供直观的功能导航*
-
-<img width="800" height="450" alt="5a6ee271-7c81-4032-aeca-57496634a64f" src="https://github.com/user-attachments/assets/0295e9ea-6f15-484c-b223-82000bc9d33c" />
-
-
-
-### 🔐 智言平台登录页
-*安全便捷的用户认证系统*
-
-<img width="800" height="450" alt="d67ba546-b3bd-40e0-b09c-9b1615afda29" src="https://github.com/user-attachments/assets/87b6e15c-a4aa-47c5-b588-0bc977599311" />
-
-
-### 🤖 智能体管理页面
-*强大的Agent配置和管理中心*
-
-<img width="800" height="450" alt="智能体页面" src="https://github.com/user-attachments/assets/e58f120e-2e53-4041-b3f8-2243083dccf3" />
-
 </div>
-
-### 🌟 智能Agent功能演示
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🌤️ 天气查询Agent
-*实时天气信息查询和预报*
-
-<img width="400" height="240" alt="天气查询Agent" src="https://github.com/user-attachments/assets/91a95c2b-f194-4c25-ba0f-f8cb393cba50" />
-
-</td>
-<td width="50%">
-
-#### 🎨 文生图Agent
-*AI驱动的图像生成服务*
-
-<img width="400" height="240" alt="文生图Agent" src="https://github.com/user-attachments/assets/58194798-5c3e-4d7d-895c-944b6665e5a6" />
-
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -100,30 +48,7 @@ AgentChat 是一个现代化的智能对话系统，基于大语言模型构建�
 <img width="800" height="450" alt="dc426a1b220af20a06b068a4ffc2bb10" src="https://github.com/user-attachments/assets/029c70ce-e5fa-4f2c-926a-a5dfd719e237" />
 
 
-### 🔌 MCP服务器集成
-*支持Model Context Protocol，可上传自定义MCP服务*
 
-<img width="800" height="450" alt="MCP集成" src="https://github.com/user-attachments/assets/7a9f4588-1098-4388-85d9-78a1a4130ec3" />
-
-### 📚 知识库管理系统
-*智能知识管理，为Agent提供丰富的外部知识支持*
-
-<img width="800" height="450" alt="知识库管理" src="https://github.com/user-attachments/assets/471ad0d3-e99b-4da0-9338-4fae41eaad68" />
-
-### 📄 文档解析引擎
-*支持PDF、Markdown、Docx、Txt等多种格式的智能解析*
-
-<img width="800" height="450" alt="文档解析" src="https://github.com/user-attachments/assets/0d030916-b6e2-482c-b828-b760fc574cae" />
-
-### 🛠️ 工具管理中心
-*丰富的内置工具集*
-
-<img width="800" height="450" alt="工具管理" src="https://github.com/user-attachments/assets/70fe68ce-56e0-44be-b78a-817ed32d4708" />
-
-### 🧠 AI模型管理
-*多模型支持，灵活配置不同AI服务*
-
-<img width="800" height="450" alt="模型管理" src="https://github.com/user-attachments/assets/41a49873-f758-49f2-86a4-1a1a57677018" />
 
 
 </div>
